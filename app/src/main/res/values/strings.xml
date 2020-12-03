@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mobile-test-droid</string>
+    <string name="name">Иванов Иван</string>
+    <string name="phone">+7 (900) 000-0000</string>
+    <string name="height">182,5</string>
+    <string name="temperament">Temperament</string>
+    <string name="dates_start_end">01.01.2020 - 30.09.2020</string>
+    <string name="biography">biography</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
