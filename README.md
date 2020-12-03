@@ -7,8 +7,8 @@ programming language:
 Java
 
 libs:
-Room
-RxJava
+Room,
+RxJava,
 Retrofit
 
 architectural pattern:
