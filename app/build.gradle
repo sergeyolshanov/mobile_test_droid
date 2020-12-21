@@ -79,4 +79,7 @@ dependencies {
     // butter knife
     implementation 'com.jakewharton:butterknife:10.2.3'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+
+    // Paging
+    implementation "android.arch.paging:runtime:1.0.1"
 }

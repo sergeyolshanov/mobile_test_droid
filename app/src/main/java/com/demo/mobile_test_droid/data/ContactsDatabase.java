@@ -22,5 +22,5 @@ public abstract class ContactsDatabase extends RoomDatabase {
         }
     }
 
-    /*public abstract ContactsDAO contactsDAO();*/
+    public abstract ContactsDAO contactsDAO();
 }
